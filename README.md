@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me
 
 - I have a B.S. in computer science from The University of Texas at Dallas
 - I am interested in embedded systems and firmware engineering
