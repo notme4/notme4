@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I have a B.S. in computer science from The University of Texas at Dallas
+- I am interested in embedded systems and firmware engineering
+
 <!--
 **notme4/notme4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
